@@ -103,7 +103,7 @@ sudo rm -rf /var/lib/snapd/cache/*
 
 # wget Apps
 ## hardinfo2
-wget -c "https://github.com/hardinfo2/hardinfo2/releases/download/release-2.2.15pre/hardinfo2_2.2.15-Ubuntu-22.04_aarch64.deb"
+wget -c "https://github.com/hardinfo2/hardinfo2/releases/download/release-2.2.15pre/hardinfo2_2.2.15-Ubuntu-26.04_amd64.deb"
 ## BleachBit
 wget -c "https://download.bleachbit.org/bleachbit_5.0.2-0_all_ubuntu2204.deb"
 ## bottom
