@@ -129,12 +129,13 @@ wget -c "https://github.com/Genymobile/scrcpy/releases/download/v3.3.4/scrcpy-li
 ## tldr
 wget -c "https://github.com/psibi/tldr-hs/releases/download/v0.9.2/tldr-musl-linux-v0.9.2.tar.gz"
 ## LibreOffice
-wget -c "https://download.documentfoundation.org/libreoffice/stable/26.2.2/deb/x86_64/LibreOffice_26.2.2_Linux_x86-64_deb.tar.gz"
+wget -c "https://download.documentfoundation.org/libreoffice/stable/26.2.3/deb/x86_64/LibreOffice_26.2.3_Linux_x86-64_deb.tar.gz"
 ## 0xProto font from NerdFonts
 wget -c "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/0xProto.zip"
-## Sweet Theme from OpenDesktop (GnomeLook)
-wget -c "https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1533954207/Sweet-Dark-v40.tar.xz?response-content-disposition=attachment%3B%2520Sweet-Dark-v40.tar.xz&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20260426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260426T023132Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=bffd2ffa6eebe666886bf75d43b8a03d8c42423874b76f70c66f48db92221441"
-wget -c "https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1533954207/Sweet-Ambar-Blue-v40.tar.xz?response-content-disposition=attachment%3B%2520Sweet-Ambar-Blue-v40.tar.xz&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20260426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260426T023321Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=28f37993464627dc68a381027b3f1c24696eafeb178e61a8e2fcd6d25527dab1"
+## Sweet Dark Theme from OpenDesktop (GnomeLook)
+wget -c "https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1533954207/Sweet-Dark-v40.tar.xz?response-content-disposition=attachment%3B%2520Sweet-Dark-v40.tar.xz&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20260503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260503T192149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=a740e28d230b89dbef93e09b70e4f635902bcf5333bfa8a1fa0bcae390c07a16"
+## Sweet Ambar Blue Theme from OpenDesktop (GnomeLook)
+wget -c "https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1533954207/Sweet-Ambar-Blue-v40.tar.xz?response-content-disposition=attachment%3B%2520Sweet-Ambar-Blue-v40.tar.xz&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20260503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260503T192235Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=7bbe06dbbe8bcfb49e91a7e847878da86b5c023a3b3e1a6b0a398504bebe0cdb"
 
 ### Installing the wget Programs
 sudo apt install -y ./hardinfo2_2.2.15-Ubuntu-26.04_amd64.deb
