@@ -142,7 +142,7 @@ sudo apt install -y ./bleachbit_6.0.0-0_all_ubuntu2604.deb
 sudo apt install -y ./bottom_0.12.3-1_amd64.deb
 sudo apt install -y ./GitHubDesktop-linux-amd64-3.4.9-linux1.deb
 sudo apt install -y ./google-chrome-stable_current_amd64.deb
-sudo apt install -y ./code_1.116.0-1776214182_amd64.deb
+sudo apt install -y ./code_1.118.1-1777474985_amd64.deb
 sudo apt install -y ./virtualbox-7.2_7.2.8-173730~Ubuntu~jammy_amd64.deb
 sudo apt install -y ./clamav-1.5.2.linux.x86_64.deb
 mkdir /usr/local/share/fonts/0xProto
