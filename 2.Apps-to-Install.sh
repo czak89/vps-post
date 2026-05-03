@@ -115,7 +115,7 @@ wget -c "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.d
 ## VSCode
 wget -c "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64"
 ## VirtualBox
-wget -c "https://download.virtualbox.org/virtualbox/7.2.8/virtualbox-7.2_7.2.8-173730~Ubuntu~jammy_amd64.deb"
+wget -c "https://download.virtualbox.org/virtualbox/7.2.8/virtualbox-7.2_7.2.8-173730~Ubuntu~resolute_amd64.deb"
 ## VirtualBox Extension Pack
 wget -c "https://download.virtualbox.org/virtualbox/7.2.8/Oracle_VirtualBox_Extension_Pack-7.2.8.vbox-extpack"
 ## ClamAV
@@ -143,7 +143,7 @@ sudo apt install -y ./bottom_0.12.3-1_amd64.deb
 sudo apt install -y ./GitHubDesktop-linux-amd64-3.4.9-linux1.deb
 sudo apt install -y ./google-chrome-stable_current_amd64.deb
 sudo apt install -y ./code_1.118.1-1777474985_amd64.deb
-sudo apt install -y ./virtualbox-7.2_7.2.8-173730~Ubuntu~jammy_amd64.deb
+sudo apt install -y ./virtualbox-7.2_7.2.8-173730~Ubuntu~resolute_amd64.deb
 sudo apt install -y ./clamav-1.5.2.linux.x86_64.deb
 mkdir /usr/local/share/fonts/0xProto
 sudo unzip 0xProto.zip -d /usr/local/share/fonts/0xProto
