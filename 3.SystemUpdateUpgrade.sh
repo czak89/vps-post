@@ -12,18 +12,18 @@ sudo apt full-upgrade --allow-downgrades -y
 # Flatpak Update
 flatpak update -y
 
+# Snap Update
+sudo snap refresh
+
+# SDKMAN!
+sdk selfupdate
+
 # Flatpak Clean Up
 flatpak uninstall --delete-data -y
 flatpak uninstall --unused -y
 
-# Snap Update
-sudo snap refresh
-
 # Snap Clean Up
 sudo rm -rf /var/lib/snapd/cache/*
-
-# SDKMAN!
-sdk selfupdate
 
 # System Clean Up
 sudo apt install -f
